@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XmasCarola
 - 👀 I’m interested in coding, dancing and exploring.
-- 🌱 I’m currently learning Python, even if I would like to delve into other languages as well. 
+- 🌱 I’m a web developer and a freshwoman, aka first-year student, in computer engineering.
 - 💞️ I’m looking to collaborate on a great variety of projects, mainly on UX, UI and data tagging.
 - 📫 How to reach out: function() { (spyOnMe == TRUE) ? console.log("Do nothing") : console.log("Drop a message in my mailbox for a good chat >> carola.massardi@gmail.com") };
 
