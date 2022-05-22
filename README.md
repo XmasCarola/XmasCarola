@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XmasCarola
 - 👀 I’m interested in coding, dancing and exploring.
-- 🌱 I’m a web developer and a freshwoman, aka first-year student, in computer engineering.
+- 🌱 I’m a software developer and a freshwoman, aka first-year student, in computer engineering.
 - 💞️ I’m looking to collaborate on a great variety of projects, mainly on webDev and data tagging.
 - 📫 How to reach out: () => { (spyOnMe) ? console.log("Do nothing") : ( document.body.appendChild(document.createElement('a')).appendChild(document.createTextNode("Connect")),
       document.querySelector('a').setAttribute("href", "mailto:carola.massardi@gmail.com") );
