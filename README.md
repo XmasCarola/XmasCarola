@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @XmasCarola
 - 👀 I’m interested in coding, dancing and exploring.
 - 🌱 I’m a software developer and a freshwoman, aka first-year student, in computer engineering.
-- 💞️ I’m looking to collaborate on a great variety of projects.
+- 💞️ I would like to collaborate on a great variety of projects.
 - 📫 How to reach out: () => { 
                            (spyOnMe) 
                                ? console.log("Do nothing") 
